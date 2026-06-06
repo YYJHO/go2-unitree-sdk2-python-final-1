@@ -1,0 +1,12 @@
+# Go2 Debug Window 依赖包
+# Requirements for Go2 Debug Window
+
+# GUI框架（使用PySide2，免费的Qt官方绑定）
+PySide2>=5.15.0
+
+# 网络接口检测（用于自动检测调试/真实模式）
+netifaces>=0.11.0
+
+# 注意：unitree_sdk2py 应该已经在系统中安装
+# Note: unitree_sdk2py should already be installed in the system
+
